@@ -1,1 +1,2 @@
-sol_dpr_client
+# sol-deeperchain-cli
+
